@@ -52,6 +52,9 @@ is right. Provider-agnostic, no markup, no styles.
 
 ### Available for
 
+Rates and scope: **[maonakamoto.github.io/hire](https://maonakamoto.github.io/hire/)**
+
+
 - **Fractional CTO** — own the architecture, the deploy pipeline and the engineering bar
   for a team that doesn't have a senior engineer yet.
 - **AI-native product builds** — greenfield, fixed scope, delivered in weeks.
