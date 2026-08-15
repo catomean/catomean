@@ -1,4 +1,4 @@
-## I decide what gets built and why. AI writes the code.
+## I turn messy human input into structured data.
 
 **Fractional CTO / principal engineer — Zürich.** I take a product from idea to a
 running, monitored, backed-up production service, and then I keep it alive.
@@ -6,6 +6,27 @@ running, monitored, backed-up production service, and then I keep it alive.
 Right now I run **14 production applications** on a single self-hosted box. Every one
 of them ships push-to-main through CI, terminates its own TLS, restores from backup,
 and is maintained by one person.
+
+---
+
+### What I go deep on
+
+The layer between a human describing something and a row that validates. I have built it
+three times, at three altitudes, and it runs against real data today.
+
+**[ai-forms](https://github.com/maonakamoto/ai-forms)** — the library. Fill a form from one
+sentence, then keep talking to it until it is right. The hard part is not the first fill, it is
+that *"actually, make it urgent"* has to patch the form instead of wiping it. Headless,
+provider-agnostic, no markup, no styles.
+
+**[DataCat](https://datacat.orangecat.ch)** — the platform. Forms, photos, documents and
+audio in; validated records, dashboards and machine commands out. Multi-provider vision with
+automatic failover, a confidence score on every extracted field, and schema versioning so old
+submissions stay valid when forms change.
+
+**In production** — refugee housing intake at [AOZ Wohnen](https://aoz-wohnen.orangecat.ch)
+(38 compatibility factors, full audit trail) and hardware capture at
+[evig](https://evig.orangecat.ch), a Zürich nonprofit keeping machines in circulation.
 
 ---
 
@@ -39,14 +60,6 @@ and is maintained by one person.
 | [VitaReBa](https://vitareba.orangecat.ch/de) | Metabolic psychiatry & longevity clinic portal — booking, care teams, GDPR-scoped clinician AI. |
 | [Petvity](https://petvity.orangecat.ch/en) | Global pet care platform. |
 | [S.Ink](https://sinktattoo.com/en) | Tattoo studio portfolio and booking. |
-
----
-
-### Open source
-
-**[ai-forms](https://github.com/maonakamoto/ai-forms)** — headless AI form filling and
-conversational refinement. Fill a form from a sentence, then keep talking to it until it
-is right. Provider-agnostic, no markup, no styles.
 
 ---
 
