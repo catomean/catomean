@@ -30,6 +30,22 @@ submissions stay valid when forms change.
 
 ---
 
+### Open source
+
+**[crewless](https://github.com/maonakamoto/crewless)** — the harness that lets one person run
+all of the below: nobody merges by hand, deploys and npm publishes are reconcilers, and every
+repo has exactly one definition of "verified". Extracted from this live fleet, outage reports
+preserved in the script headers. Being built in public, numbers included — starting from
+one star.
+
+npm, all tokenless (OIDC trusted publishing):
+[`ai-forms`](https://www.npmjs.com/package/ai-forms) ·
+[`threadkit`](https://www.npmjs.com/package/threadkit) ·
+[`bip-kit`](https://www.npmjs.com/package/bip-kit) — each extracted from a production system
+above, none invented for its own sake.
+
+---
+
 ### Live
 
 **Platforms**
