@@ -36,7 +36,7 @@ submissions stay valid when forms change.
 all of the below: nobody merges by hand, deploys and npm publishes are reconcilers, and every
 repo has exactly one definition of "verified". Extracted from this live fleet, outage reports
 preserved in the script headers. Being built in public, numbers included — starting from
-one star.
+one star: [the experiment's opening entry](https://orangecat.ch/articles/one-star-c4w71w).
 
 npm, all tokenless (OIDC trusted publishing):
 [`ai-forms`](https://www.npmjs.com/package/ai-forms) ·
