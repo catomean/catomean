@@ -14,7 +14,7 @@ and is maintained by one person.
 The layer between a human describing something and a row that validates. I have built it
 three times, at three altitudes, and it runs against real data today.
 
-**[ai-forms](https://github.com/maonakamoto/ai-forms)** — the library. Fill a form from one
+**[ai-forms](https://github.com/bitbaum/ai-forms)** — the library. Fill a form from one
 sentence, then keep talking to it until it is right. The hard part is not the first fill, it is
 that *"actually, make it urgent"* has to patch the form instead of wiping it. Headless,
 provider-agnostic, no markup, no styles.
@@ -32,7 +32,7 @@ submissions stay valid when forms change.
 
 ### Open source
 
-**[crewless](https://github.com/maonakamoto/crewless)** — the harness that lets one person run
+**[crewless](https://github.com/bitbaum/crewless)** — the harness that lets one person run
 all of the below: nobody merges by hand, deploys and npm publishes are reconcilers, and every
 repo has exactly one definition of "verified". Extracted from this live fleet, outage reports
 preserved in the script headers. Being built in public, numbers included — starting from
@@ -81,7 +81,7 @@ above, none invented for its own sake.
 
 ### Available for
 
-Rates and scope: **[maonakamoto.github.io/hire](https://maonakamoto.github.io/hire/)**
+Rates and scope: **[bitbaum.github.io/hire](https://bitbaum.github.io/hire/)**
 
 
 - **Fractional CTO** — own the architecture, the deploy pipeline and the engineering bar
