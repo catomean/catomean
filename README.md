@@ -55,15 +55,14 @@ above, none invented for its own sake.
 | [DataCat](https://datacat.orangecat.ch) | Universal AI data capture, analysis and delivery. |
 | [Botsmann](https://botsmann.orangecat.ch) | Domain-specialised AI professionals — legal, medical, research, translation. |
 
-**Swiss institutions & civic**
+**Civic / Swiss products**
 
 | | |
 | --- | --- |
-| [AOZ Wohnen](https://aoz-wohnen.orangecat.ch) | Demo: Compatibility-based housing placement system — 38 factors, conflict prediction, full audit trail. Sample data. |
-| [Reparaturbonus Zürich](https://reparaturbonus.orangecat.ch) | City repair-bonus platform. Residents to certified repair shops instead of landfill. |
-| [RevampIT](https://revampit.orangecat.ch) | Digital infrastructure for a Zürich nonprofit keeping hardware in circulation. |
+| [AOZ Wohnen](https://aoz.orangecat.ch) | Demo: Compatibility-based housing placement system — 38 factors, conflict prediction, full audit trail. Sample data. |
+| [Reparaturbonus Zürich](https://reparaturbonus.orangecat.ch) | Product demo: Repair-bonus platform connecting residents to certified repair shops. |
+| [evig](https://evig.orangecat.ch) | Storefront for refurbished hardware, repair, workshops — built for Zürich nonprofit RevampIT. |
 | [revamp-info](https://revamp-info.orangecat.ch) | IT support and knowledge base. |
-| [evig](https://evig.orangecat.ch) | Affordable intelligence — decent refurbished hardware, repair, workshops. |
 
 **Product & client work**
 
