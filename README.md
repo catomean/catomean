@@ -1,4 +1,4 @@
-**Georgy Butaev, Zürich.** I design, ship, and operate full production systems.
+**Cato, Zürich.** I design, ship, and operate full production systems.
 Fractional CTO / principal engineer.
 
 ---
