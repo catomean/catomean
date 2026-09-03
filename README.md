@@ -5,8 +5,8 @@ Fractional CTO / principal engineer.
 
 ### Flagships
 
-**[OrangeCat](https://orangecat.ch)** — live Bitcoin-native economic platform. Peer-to-peer
-payments, live pay-link capability, funding, and commerce infrastructure. No middlemen.
+**[OrangeCat](https://orangecat.ch)** — live Bitcoin-native economic platform. Live pay-link
+and commerce surfaces; Bitcoin Lightning settlement. No middlemen.
 
 **[FleetCrown](https://fleetcrown.orangecat.ch)** — live pre-1.0 execution OS and AI-agent
 orchestration for projects, goals, money, and agent fleets.
