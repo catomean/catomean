@@ -3,9 +3,9 @@
 **Fractional CTO / principal engineer — Zürich.** I take a product from idea to a
 running, monitored, backed-up production service, and then I keep it alive.
 
-Right now I run **14 production applications** on a single self-hosted box. Every one
-of them ships push-to-main through CI, terminates its own TLS, restores from backup,
-and is maintained by one person.
+I build and maintain production applications on self-hosted infrastructure. Everything
+ships push-to-main through CI, terminates its own TLS, restores from backup, and is
+maintained by one person.
 
 ---
 
@@ -23,10 +23,6 @@ provider-agnostic, no markup, no styles.
 audio in; validated records, dashboards and machine commands out. Multi-provider vision with
 automatic failover, a confidence score on every extracted field, and schema versioning so old
 submissions stay valid when forms change.
-
-**In production** — refugee housing intake at [AOZ Wohnen](https://aoz-wohnen.orangecat.ch)
-(38 compatibility factors, full audit trail) and hardware capture at
-[evig](https://evig.orangecat.ch), a Zürich nonprofit keeping machines in circulation.
 
 ---
 
@@ -63,7 +59,7 @@ above, none invented for its own sake.
 
 | | |
 | --- | --- |
-| [AOZ Wohnen](https://aoz-wohnen.orangecat.ch) | Compatibility-based housing placement for refugees — 38 factors, conflict prediction, full audit trail. |
+| [AOZ Wohnen](https://aoz-wohnen.orangecat.ch) | Demo: Compatibility-based housing placement system — 38 factors, conflict prediction, full audit trail. Sample data. |
 | [Reparaturbonus Zürich](https://reparaturbonus.orangecat.ch) | City repair-bonus platform. Residents to certified repair shops instead of landfill. |
 | [RevampIT](https://revampit.orangecat.ch) | Digital infrastructure for a Zürich nonprofit keeping hardware in circulation. |
 | [revamp-info](https://revamp-info.orangecat.ch) | IT support and knowledge base. |
@@ -102,4 +98,4 @@ Rates and scope: **[bitbaum.github.io/hire](https://bitbaum.github.io/hire/)**
 
 ---
 
-**Zürich, Switzerland** · [orangecat.ch](https://orangecat.ch) · [georgy.butaev@revamp-it.ch](mailto:georgy.butaev@revamp-it.ch)
+**Zürich, Switzerland** · [orangecat.ch](https://orangecat.ch)
