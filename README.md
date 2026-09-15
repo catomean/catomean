@@ -56,6 +56,10 @@ and audio in; validated records and dashboards out, with multi-provider vision f
 [Solon](https://solon.orangecat.ch) (on-chain treasury, signed votes, decisions tracked
 against KPIs)
 
+**Open research** — [Substrata](https://substrata.orangecat.ch) maps physical bottlenecks on the
+path to faster technological progress (compute, energy, materials, the machines that make them).
+Every claim is sourced or marked unverified; the map is public JSON.
+
 ---
 
 ### How I work
