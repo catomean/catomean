@@ -1,14 +1,15 @@
 **Cato, Zürich.** I design, ship, and operate full production systems.
 Fractional CTO / principal engineer.
 
-Six live, CI-green, test-covered web platforms — three of them past 2,300 commits — running
-on infrastructure I operate myself.
+Six running, CI-green, test-covered web platforms — three of them past 2,300 commits — running
+on infrastructure I operate myself. Everything, at the stage it is really at:
+**[bitbaum.orangecat.ch](https://bitbaum.orangecat.ch)**
 
 ---
 
 ### Flagships
 
-**[OrangeCat](https://orangecat.ch)** — Bitcoin-native economic platform. Live pay-link and
+**[OrangeCat](https://orangecat.ch)** — Bitcoin-native economic platform. Pay-link and
 commerce surfaces, Lightning settlement. Exchange, fund, lend, invest and govern are the
 roadmap, not what ships today. *2,774 commits · 2,648 tests · CodeQL + Playwright E2E + uptime checks.*
 
@@ -16,9 +17,9 @@ roadmap, not what ships today. *2,774 commits · 2,648 tests · CodeQL + Playwri
 workshops, AI-assisted intake for refurbished hardware. *2,630 commits · 7,783 tests ·
 151 migrations · 8-job CI.*
 
-**[FleetCrown](https://fleetcrown.orangecat.ch)** — execution OS and AI-agent orchestration:
+**[Loki](https://loki.orangecat.ch)** — execution OS and AI-agent orchestration:
 hosted control plane plus a local daemon that owns shell, git and PTY to drive coding agents.
-Pre-1.0, live. *2,345 commits · 9 workflows · signed desktop binaries across 13 releases.*
+Pre-1.0, in beta. *2,345 commits · 9 workflows · signed desktop binaries across 13 releases.*
 
 **[Hirnli](https://github.com/bitbaum/hirnli)** — Swiss fundraising intelligence: 16,900
 foundations turned into actionable grant applications. Multi-tenant SaaS.
@@ -27,8 +28,8 @@ foundations turned into actionable grant applications. Multi-tenant SaaS.
 **[Kivvi](https://kivvi.orangecat.ch)** — AI-first ERP for Swiss SMEs and secondhand retail.
 Monorepo, Dockerised. *650 commits · 1,316 tests.*
 
-**[AOZ Wohnen](https://aoz.orangecat.ch)** — compatibility-based housing placement: 38 factors,
-conflict prediction, full audit trail. Deployed demo with sample data.
+**[AOZ Begleitung](https://aoz.orangecat.ch)** — compatibility-based housing placement: 38 factors,
+conflict prediction, full audit trail. A pilot running on a real shared flat; AOZ is not a customer.
 *3,748 tests across 215 files — the highest test-to-code ratio I run.*
 
 ---
@@ -37,10 +38,10 @@ conflict prediction, full audit trail. Deployed demo with sample data.
 
 **Swiss civic & public-service** — [Reparaturbonus Zürich](https://reparaturbonus.orangecat.ch)
 (repair-bonus platform, residents to certified repair shops) ·
-[SBB Lost & Found](https://sbb.orangecat.ch) (real-time lost-item recovery, Redis pub/sub +
-Socket.io) · [revamp-info](https://revamp-info.orangecat.ch) (IT support knowledge base)
+[Nordbahn Fundbüro](https://sbbfundbuero.orangecat.ch) (lost-item recovery bound to the real
+journey — a concept on mock data, not affiliated with SBB)
 
-**Clinical & care portals** — [VitaReBa](https://vitareba.orangecat.ch/de) (metabolic psychiatry
+**Clinical & care portals** — [Vita](https://vitareba.orangecat.ch/de) (metabolic psychiatry
 and longevity: booking, care teams, GDPR-scoped clinician AI) ·
 [Surf Your Life](https://surf-your-life.orangecat.ch) (burnout and Long COVID recovery —
 daily check-ins, symptom tracking, early practitioner intervention)
@@ -90,7 +91,7 @@ Each one extracted from a system above, published tokenless via OIDC trusted pub
 
 ### Available for
 
-**Rates and scope: [bitbaum.github.io/hire](https://bitbaum.github.io/hire/)**
+**Rates and scope: [bitbaum.orangecat.ch/hire](https://bitbaum.orangecat.ch/hire/)**
 
 - **Fractional CTO** — own the architecture, the deploy pipeline and the engineering bar
   for a team that doesn't have a senior engineer yet.
@@ -100,4 +101,4 @@ Each one extracted from a system above, published tokenless via OIDC trusted pub
 
 ---
 
-**Zürich, Switzerland** · [orangecat.ch](https://orangecat.ch)
+**Zürich, Switzerland** · [bitbaum.orangecat.ch](https://bitbaum.orangecat.ch) · [cato@orangecat.ch](mailto:cato@orangecat.ch)
